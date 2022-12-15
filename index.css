@@ -1,0 +1,19 @@
+.container{
+    margin-top: 30px;
+   
+}
+h1{
+    text-align: center;
+}
+.resistration-form
+{
+    width: 900px;
+    margin: auto;
+}
+/* .valid-feedback
+{
+    display: block;
+}
+.invalid-feedback{
+    display: block;
+} */
